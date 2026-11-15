@@ -37,8 +37,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
-   cd YOUR_REPOSITORY_FOLDER
+  git clone https://github.com/indiresh-glitch/CS_PROJECT-FINANCE-MANAGEMENT-SYSTEM.git
+cd CS_PROJECT-FINANCE-MANAGEMENT-SYSTEM
    ```
 
 2. Install the required Python packages:
